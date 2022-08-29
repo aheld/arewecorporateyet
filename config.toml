@@ -1,0 +1,24 @@
+baseurl         = "/"
+theme           = "hugo-webslides"
+languageCode    = "en-us"
+title           = "Helping teams reach peak corporate culture"
+
+[params]
+  author = "Aaron Held"
+  homepage = ""
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[blackfriday]
+extensionsmask = ["autoHeaderIds"]
