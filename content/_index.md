@@ -6,7 +6,7 @@ title = "Hugo-Webslides"
 
 ## **Are We Corporate Yet**
 
-Your guide to effive corporate mediocraty so you can persevere and retire.
+Your guide to effective corporate mediocraty so you can persevere and retire.
 
 ---
 
