@@ -1,16 +1,21 @@
 +++
-title = "Hugo-Webslides"
+title = "Are We Corporate yet?"
+outputs = ["Reveal"]
+source_theme = "https://themes.gohugo.io/themes/reveal-hugo/"
 +++
-<!--: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
 
+# Are We Corporate yet?
 
-## **Are We Corporate Yet**
-
-Your guide to effective corporate mediocraty so you can persevere and retire.
+Next slide please --->
 
 ---
 
-<!--: .wrap -->
+# Yes!
 
-## **Coming Soon**
-But feel the pride of realizing this was a slide deck.
+If you seek wisdom in a slide deck, you are peak corporate
+
+---
+
+# What next?
+
+Follow our guide to effective corporate mediocrity so you can persevere and retire.
